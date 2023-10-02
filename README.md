@@ -1,4 +1,4 @@
-# CREDID-CARD-FRAUD-PREDICTION-USING-ENSEMBLE-LEARNING
+# CREDIT-CARD-FRAUD-PREDICTION-USING-ENSEMBLE-LEARNING
 Data visualization provides a good, organized pictorial representation of the data which makes it easier to understand, observe, analyze.In this Pproject, we will provide codes for visualizing data using Python.
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
 This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
